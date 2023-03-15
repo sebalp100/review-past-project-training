@@ -28,7 +28,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 My Blog App <a name="about-project"></a>
+# 📖 Code review training <a name="about-project"></a>
 
 This is simple project that uses the same code from the HTML/CSS project from admissions.
 
